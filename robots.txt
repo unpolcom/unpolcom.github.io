@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://unpolcom.github.io/sitemap.html.gz
+Sitemap: https://unpolcom.github.io/app/sitemap.html.gz
+Sitemap: https://unpolcom.github.io/assets/sitemap.html.gz
+Sitemap: https://unpolcom.github.io/css/sitemap.html.gz
+Sitemap: https://unpolcom.github.io/data/sitemap.html.gz
+Sitemap: https://unpolcom.github.io/includes/sitemap.html.gz
+Sitemap: https://unpolcom.github.io/item/sitemap.html.gz
+Sitemap: https://unpolcom.github.io/src/sitemap.html.gz
